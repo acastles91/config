@@ -1,0 +1,5 @@
+[Bookmarks]
+[Recent]
+/home/antonio/dev/of_v0.10.1_linux64gcc6_release/apps/myApps/DEBATE/bin/data/
+/home/antonio/3d/
+/home/antonio/Documents/debate3d/

@@ -1,0 +1,7 @@
+[Added Associations]
+text/plain=org.gnome.gedit.desktop;
+image/png=eog.desktop;gimp.desktop;
+video/quicktime=vlc.desktop;mpv.desktop;
+image/jpeg=eog.desktop;
+application/pdf=org.gnome.Evince.desktop;gimp.desktop;
+image/tiff=eog.desktop;
